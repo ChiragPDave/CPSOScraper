@@ -1,5 +1,5 @@
 # CPSOScraper
-Python based web scraper than downloads the physician database on the College of Physicians and Surgeons of Ontario website.
+Python based web scraper that downloads the physician database on the College of Physicians and Surgeons of Ontario website.
 
 # Overview
 In accordance with the Terms of Use & robots.txt, this python script allows the user to download nearly all data available on an individual physician's profile on the College of Physicians and Surgeons of Ontario physician database.
